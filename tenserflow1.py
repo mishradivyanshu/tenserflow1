@@ -9,9 +9,8 @@ Created on Mon Aug 12 21:43:01 2019
 # coding: utf-8
 
 # # TensorFlow Tutorial
-# 
-# Welcome to this week's programming assignment. Until now, you've always used numpy to build neural networks. Now we will step you through a deep learning framework that will allow you to build neural networks more easily. Machine learning frameworks like TensorFlow, PaddlePaddle, Torch, Caffe, Keras, and many others can speed up your machine learning development significantly. All of these frameworks also have a lot of documentation, which you should feel free to read. In this assignment, you will learn to do the following in TensorFlow: 
-# 
+
+
 # - Initialize variables
 # - Start your own session
 # - Train algorithms 
